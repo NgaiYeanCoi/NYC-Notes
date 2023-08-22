@@ -7,7 +7,7 @@
 此篇是由Ngai Yean Coi整理编写出的Markdown教程，如有错误的请指出。  
 Stayrabbit & Ngai Yean Coi是同一人。  
 全篇建议配合源代码一起阅读
-[点我查看源码](https://github.com/NgaiYeanCoi/NYC-Notes/blob/d34e052f29cb0838f0969727ce723f235e731588/%E7%BC%96%E7%A8%8B%E7%B1%BB/Markdown/%E5%AD%A6%E4%B9%A0Markdown%E7%AC%94%E8%AE%B0.md)  
+[点我查看源码](https://github.com/NgaiYeanCoi/NYC-Notes/blob/master/%E7%BC%96%E7%A8%8B%E7%B1%BB/Markdown/%E5%AD%A6%E4%B9%A0Markdown%E7%AC%94%E8%AE%B0.md?plain=1)  
 
 ## 目录
 
