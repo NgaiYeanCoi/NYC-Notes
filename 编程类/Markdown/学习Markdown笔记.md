@@ -1,4 +1,4 @@
-# 学习Markdown by Ngai Yean Coi 2023.8.22更新
+# 学习Markdown by Ngai Yean Coi 2023.8.23更新
 
 [返回主页](https://www.stayrabbit.top/)
 
@@ -10,7 +10,7 @@ Stayrabbit & Ngai Yean Coi是同一人。
 [点我查看源码](https://github.com/NgaiYeanCoi/NYC-Notes/blob/d34e052f29cb0838f0969727ce723f235e731588/%E7%BC%96%E7%A8%8B%E7%B1%BB/Markdown/%E5%AD%A6%E4%B9%A0Markdown%E7%AC%94%E8%AE%B0.md)  
 
 ## 目录
-- [学习Markdown by Ngai Yean Coi 2023.8.22更新](#学习markdown-by-ngai-yean-coi-2023822更新)
+- [学习Markdown by Ngai Yean Coi 2023.8.23更新](#学习markdown-by-ngai-yean-coi-2023823更新)
   - [目录](#目录)
   - [一、前言](#一前言)
     - [1.1 关于Markdown](#11-关于markdown)
