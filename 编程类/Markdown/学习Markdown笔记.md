@@ -525,16 +525,16 @@ return 0;
 
 - Markdown不能指定图片的高度与宽度，如果你需要改变的话可以用HTML的`<img>`标签
 
-> \<img decoding="async" src="./img/profile.jpg" width="30%" title="img标签的示例" >
+> \<img decoding="async" src="./img/profile.jpg" width="10%" title="img标签的示例" >
 
 示例：
 
 
-> <img decoding="async" src="./img/profile.jpg" width="30%" title="img标签的示例">
+> <img decoding="async" src="./img/profile.jpg" width="10%" title="img标签的示例">
 
 ### 2.11 表格
 
--
+- test
 
 ## 参考文献
 
