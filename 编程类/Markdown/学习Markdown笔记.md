@@ -1,4 +1,4 @@
-# 学习Markdown by Ngai Yean Coi 2023.8.28更新
+# 学习Markdown by Ngai Yean Coi 2023.8.29更新
 
 [返回主页](https://www.stayrabbit.top/)
 
@@ -11,7 +11,7 @@ Stayrabbit & Ngai Yean Coi是同一人。
 
 ## 目录
 
-- [学习Markdown by Ngai Yean Coi 2023.8.28更新](#学习markdown-by-ngai-yean-coi-2023828更新)
+- [学习Markdown by Ngai Yean Coi 2023.8.29更新](#学习markdown-by-ngai-yean-coi-2023829更新)
   - [目录](#目录)
   - [一、前言](#一前言)
     - [1.1 关于Markdown](#11-关于markdown)
@@ -43,9 +43,11 @@ Stayrabbit & Ngai Yean Coi是同一人。
     - [2.10 插入图片](#210-插入图片)
       - [2.10.1 指定图片的高度与宽度](#2101-指定图片的高度与宽度)
     - [2.11 表格](#211-表格)
-  - [参考文献](#参考文献)
-  - [扩展阅读](#扩展阅读)
-  - [后续将继续更新...](#后续将继续更新)
+      - [2.11.1 表格的对齐](#2111-表格的对齐)
+    - [2.12 注释](#212-注释)
+  - [三、参考文献](#三参考文献)
+  - [四、扩展阅读](#四扩展阅读)
+  - [后续将继续更新其他高级用法...](#后续将继续更新其他高级用法)
 
 
 ## 一、前言
@@ -534,16 +536,56 @@ return 0;
 
 ### 2.11 表格
 
-- test
+- Markdown可以在做笔记或者撰写文档的时候使用表格用`|`来分隔不同的单元格,使用`-`来分隔其他表头和行
+  
+>\| 表头1 \| 表头2 \|
+>\| ---- | ---- |
+>\| 单元格 | 单元格 |
+>\| 单元格 | 单元格 |
 
-## 参考文献
+示例：
+
+| 表头1 | 表头2 |
+| ---- | ---- |
+| 单元格 | 单元格 |
+| 单元格 | 单元格 |
+
+
+#### 2.11.1 表格的对齐  
+
+- 表格中的内容可以相对于表格对齐
+
+- `:-`居左对齐
+- `:-:`居中对齐
+- `-:`居右对齐
+
+示例：
+
+| 居左对齐 | 居中对齐 | 居右对齐 |
+| :---- | :----: | ----: |
+| 单元格 | 单元格 | 单元格 |
+| 单元格 | 单元格 | 单元格 |
+
+### 2.12 注释
+
+- Markdown的注释与HTML的注释类似可以在源代码中标识一段而不被渲染出来
+
+>\<!--注释-->
+
+示例：  
+
+<!--注释的示例-->
+
+P.S.结合源代码来查看示例
+
+## 三、参考文献
 
 1. Markdown - 维基百科，自由的百科全书 -wiki- https://zh.wikipedia.org/wiki/Markdown  
 2. 第 3 期、写作：使用 Markdown 记笔记入门 -知乎- https://zhuanlan.zhihu.com/p/496076040
 3. runoob Markdown教程 -runoob.com- https://www.runoob.com/markdown/md-tutorial.html
 
 
-## 扩展阅读
+## 四、扩展阅读
 
 1. Markdown 写作规范和格式规范 -腾讯云|开发者社区- https://cloud.tencent.com/developer/article/2087118  
 2. Markdown 编写规范 -Github- https://github.com/fex-team/styleguide/blob/master/markdown.md
@@ -553,6 +595,6 @@ return 0;
 
 
 
-## 后续将继续更新...
+## 后续将继续更新其他高级用法...
 
 
