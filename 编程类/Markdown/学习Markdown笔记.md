@@ -597,4 +597,4 @@ P.S.结合源代码来查看示例
 
 ## 后续将继续更新其他高级用法...
 
-[LaTex](https://htmlpreview.github.io/?https://github.com/NgaiYeanCoi/NYC-Notes/blob/master/%E7%BC%96%E7%A8%8B%E7%B1%BB/LaTex/LaTex.md)
+[LaTex](https://htmlpreview.github.io/?https://github.com/NgaiYeanCoi/NYC-Notes/blob/master/%E7%BC%96%E7%A8%8B%E7%B1%BB/LaTex/LaTex.html)
