@@ -1,17 +1,17 @@
-# 学习Markdown by Ngai Yean Coi 2023.8.29更新
+# 学习Markdown by NgaiYeanCoi 2023.8.29更新
 
 [返回主页](https://www.stayrabbit.top/)
 
 ---
 
-此篇是由Ngai Yean Coi整理编写出的Markdown教程，如有错误的请指出。  
-Stayrabbit & Ngai Yean Coi是同一人。  
+此篇是由NgaiYeanCoi整理编写出的Markdown教程，如有错误的请指出。  
+Stayrabbit & NgaiYeanCoi是同一人。  
 全篇建议配合源代码一起阅读
 [点我查看源码](https://github.com/NgaiYeanCoi/NYC-Notes/blob/master/%E7%BC%96%E7%A8%8B%E7%B1%BB/Markdown/%E5%AD%A6%E4%B9%A0Markdown%E7%AC%94%E8%AE%B0.md?plain=1)  
 
 ## 目录
 
-- [学习Markdown by Ngai Yean Coi 2023.8.29更新](#学习markdown-by-ngai-yean-coi-2023829更新)
+- [学习Markdown by NgaiYeanCoi 2023.8.29更新](#学习markdown-by-ngaiyeancoi-2023829更新)
   - [目录](#目录)
   - [一、前言](#一前言)
     - [1.1 关于Markdown](#11-关于markdown)
@@ -410,7 +410,7 @@ P.S. 转义在区块引用[2.6](#26-区块引用)中也是有效的。
 * 如果是段落上的一个函数或片段的代码可以用反引号“ ` ”把它包起来。
 
 
->\`printf("Hello World");``  
+>\`printf("Hello World");`
 
 示例：
 `printf("Hello World");`
@@ -597,4 +597,4 @@ P.S.结合源代码来查看示例
 
 ## 后续将继续更新其他高级用法...
 
-
+[LaTex]
