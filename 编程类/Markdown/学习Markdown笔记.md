@@ -421,7 +421,7 @@ P.S. 转义在区块引用[2.6](#26-区块引用)中也是有效的。
 * Markdown可以用 “ ``` ” 来包围一段代码，并指定一种语言（也可以不指定）。
 
 > \```C {.line-numbers} //指定一种语言例如C语言。{.line-numbers}表示显示代码行数（基于Markdown Preview Enhanced插件）
-> #include <stdio.h>
+> \#include <stdio.h>
 > int main()
 > {
 > printf("Hello World");
